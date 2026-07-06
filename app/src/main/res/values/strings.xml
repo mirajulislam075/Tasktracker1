@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task Tracker</string>
+    <string name="notif_channel_reminders">Task reminders</string>
+    <string name="notif_channel_reminders_desc">Notifications for upcoming and overdue tasks.</string>
+</resources>
